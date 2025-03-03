@@ -38,3 +38,5 @@ Before running the application, ensure you have the following:
 - **Extract Metadata**: The script uses the `requests` library to fetch the content of the job posting.
 - **Parse Job Details**: Extracts job title, company name, and requirements from the webpage.
 - **Generate Email**: Uses AI to generate a professional and tailored email based on the extracted information.
+
+- Credits : CodeBasics
